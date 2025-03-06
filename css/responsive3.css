@@ -1,0 +1,564 @@
+@media only screen and (max-width: 320px) {
+    body {
+        width: auto;
+    }
+    header {
+        width: 100.5%;
+        height: 80px;
+        background-color: black;
+        position: fixed;
+        top: -5px;
+        left: -5px;
+        z-index: 100;
+    }
+    nav {
+        padding: 5px;
+        position: relative;
+        left: 150px;
+        top: 20px;
+    }
+    a {
+        font-size: 10px;
+        text-decoration: none;
+        color: white;
+        padding: 5px;
+    }
+    a:hover {
+        text-shadow: 0px 0px 10px white;
+    }
+    .img-1 {
+        width: 50px;
+        position: absolute;
+        top: 20px;
+        left: 10px;
+    }
+    .img-2 {
+        position: absolute;
+        left: 40px;
+        top: -13px;
+    }
+    .card {
+        transform: scale(0.9);
+    }
+    footer {
+        position: relative;
+        top: 500px;
+    }
+}
+@media only screen and (max-width: 340px) {
+    body {
+        width: auto;
+    }
+    header {
+        width: 100.5%;
+        height: 80px;
+        background-color: black;
+        position: fixed;
+        top: -5px;
+        left: -5px;
+        z-index: 100;
+    }
+    nav {
+        padding: 5px;
+        position: relative;
+        left: 150px;
+        top: 20px;
+    }
+    a {
+        font-size: 10px;
+        text-decoration: none;
+        color: white;
+        padding: 5px;
+    }
+    a:hover {
+        text-shadow: 0px 0px 10px white;
+    }
+    .img-1 {
+        width: 50px;
+        position: absolute;
+        top: 20px;
+        left: 10px;
+    }
+    .img-2 {
+        position: absolute;
+        left: 40px;
+        top: -13px;
+    }
+    .card {
+        transform: scale(0.9);
+    }
+    footer {
+        position: relative;
+        top: 500px;
+    }
+}
+@media only screen and (max-width: 360px) {
+    body {
+        width: auto;
+    }
+    header {
+        width: 100.5%;
+        height: 80px;
+        background-color: black;
+        position: fixed;
+        top: -5px;
+        left: -5px;
+        z-index: 100;
+    }
+    nav {
+        padding: 5px;
+        position: relative;
+        left: 150px;
+        top: 20px;
+    }
+    a {
+        font-size: 10px;
+        text-decoration: none;
+        color: white;
+        padding: 5px;
+    }
+    a:hover {
+        text-shadow: 0px 0px 10px white;
+    }
+    .img-1 {
+        width: 50px;
+        position: absolute;
+        top: 20px;
+        left: 10px;
+    }
+    .img-2 {
+        position: absolute;
+        left: 40px;
+        top: -13px;
+    }
+    .card {
+        transform: scale(0.9);
+    }
+    footer {
+        position: relative;
+        top: 500px;
+    }
+}
+@media only screen and (max-width: 380px) {
+    body {
+        width: auto;
+    }
+    header {
+        width: 100.5%;
+        height: 80px;
+        background-color: black;
+        position: fixed;
+        top: -5px;
+        left: -5px;
+        z-index: 100;
+    }
+    nav {
+        padding: 5px;
+        position: relative;
+        left: 150px;
+        top: 20px;
+    }
+    a {
+        font-size: 10px;
+        text-decoration: none;
+        color: white;
+        padding: 5px;
+    }
+    a:hover {
+        text-shadow: 0px 0px 10px white;
+    }
+    .img-1 {
+        width: 50px;
+        position: absolute;
+        top: 20px;
+        left: 10px;
+    }
+    .img-2 {
+        position: absolute;
+        left: 40px;
+        top: -13px;
+    }
+    .card {
+        transform: scale(0.9);
+    }
+    footer {
+        position: relative;
+        top: 500px;
+    }
+}
+@media only screen and (max-width: 400px) {
+    body {
+        width: auto;
+    }
+    header {
+        width: 100.5%;
+        height: 80px;
+        background-color: black;
+        position: fixed;
+        top: -5px;
+        left: -5px;
+        z-index: 100;
+    }
+    nav {
+        padding: 5px;
+        position: relative;
+        left: 150px;
+        top: 20px;
+    }
+    a {
+        font-size: 10px;
+        text-decoration: none;
+        color: white;
+        padding: 5px;
+    }
+    a:hover {
+        text-shadow: 0px 0px 10px white;
+    }
+    .img-1 {
+        width: 50px;
+        position: absolute;
+        top: 20px;
+        left: 10px;
+    }
+    .img-2 {
+        position: absolute;
+        left: 40px;
+        top: -13px;
+    }
+    .card {
+        transform: scale(0.9);
+    }
+    footer {
+        position: relative;
+        top: 500px;
+    }
+}
+@media only screen and (max-width: 420px) {
+    body {
+        width: auto;
+    }
+    header {
+        width: 100.5%;
+        height: 80px;
+        background-color: black;
+        position: fixed;
+        top: -5px;
+        left: -5px;
+        z-index: 100;
+    }
+    nav {
+        padding: 5px;
+        position: relative;
+        left: 150px;
+        top: 20px;
+    }
+    a {
+        font-size: 10px;
+        text-decoration: none;
+        color: white;
+        padding: 5px;
+    }
+    a:hover {
+        text-shadow: 0px 0px 10px white;
+    }
+    .img-1 {
+        width: 50px;
+        position: absolute;
+        top: 20px;
+        left: 10px;
+    }
+    .img-2 {
+        position: absolute;
+        left: 40px;
+        top: -13px;
+    }
+    .card {
+        transform: scale(0.9);
+    }
+    footer {
+        position: relative;
+        top: 500px;
+    }
+}
+@media only screen and (max-width: 450px) {
+    body {
+        width: auto;
+    }
+    header {
+        width: 100.5%;
+        height: 80px;
+        background-color: black;
+        position: fixed;
+        top: -5px;
+        left: -5px;
+        z-index: 100;
+    }
+    nav {
+        padding: 5px;
+        position: relative;
+        left: 150px;
+        top: 20px;
+    }
+    a {
+        font-size: 10px;
+        text-decoration: none;
+        color: white;
+        padding: 5px;
+    }
+    a:hover {
+        text-shadow: 0px 0px 10px white;
+    }
+    .img-1 {
+        width: 50px;
+        position: absolute;
+        top: 20px;
+        left: 10px;
+    }
+    .img-2 {
+        position: absolute;
+        left: 40px;
+        top: -13px;
+    }
+    .card {
+        transform: scale(0.9);
+    }
+    footer {
+        position: relative;
+        top: 500px;
+    }
+}
+@media only screen and (max-width: 470px) {
+    body {
+        width: auto;
+    }
+    header {
+        width: 100.5%;
+        height: 80px;
+        background-color: black;
+        position: fixed;
+        top: -5px;
+        left: -5px;
+        z-index: 100;
+    }
+    nav {
+        padding: 5px;
+        position: relative;
+        left: 150px;
+        top: 20px;
+    }
+    a {
+        font-size: 10px;
+        text-decoration: none;
+        color: white;
+        padding: 5px;
+    }
+    a:hover {
+        text-shadow: 0px 0px 10px white;
+    }
+    .img-1 {
+        width: 50px;
+        position: absolute;
+        top: 20px;
+        left: 10px;
+    }
+    .img-2 {
+        position: absolute;
+        left: 40px;
+        top: -13px;
+    }
+    .card {
+        transform: scale(0.9);
+    }
+    footer {
+        position: relative;
+        top: 500px;
+    }
+}
+@media only screen and (max-width: 500px) {
+    body {
+        width: auto;
+    }
+    header {
+        width: 100.5%;
+        height: 80px;
+        background-color: black;
+        position: fixed;
+        top: -5px;
+        left: -5px;
+        z-index: 100;
+    }
+    nav {
+        padding: 5px;
+        position: relative;
+        left: 150px;
+        top: 20px;
+    }
+    a {
+        font-size: 10px;
+        text-decoration: none;
+        color: white;
+        padding: 5px;
+    }
+    a:hover {
+        text-shadow: 0px 0px 10px white;
+    }
+    .img-1 {
+        width: 50px;
+        position: absolute;
+        top: 20px;
+        left: 10px;
+    }
+    .img-2 {
+        position: absolute;
+        left: 40px;
+        top: -13px;
+    }
+    .card {
+        transform: scale(0.9);
+    }
+    footer {
+        position: relative;
+        top: 500px;
+    }
+}
+@media only screen and (max-width: 530px) {
+    body {
+        width: auto;
+    }
+    header {
+        width: 100.5%;
+        height: 80px;
+        background-color: black;
+        position: fixed;
+        top: -5px;
+        left: -5px;
+        z-index: 100;
+    }
+    nav {
+        padding: 5px;
+        position: relative;
+        left: 150px;
+        top: 20px;
+    }
+    a {
+        font-size: 10px;
+        text-decoration: none;
+        color: white;
+        padding: 5px;
+    }
+    a:hover {
+        text-shadow: 0px 0px 10px white;
+    }
+    .img-1 {
+        width: 50px;
+        position: absolute;
+        top: 20px;
+        left: 10px;
+    }
+    .img-2 {
+        position: absolute;
+        left: 40px;
+        top: -13px;
+    }
+    .card {
+        transform: scale(0.9);
+    }
+    footer {
+        position: relative;
+        top: 500px;
+    }
+}
+@media only screen and (max-width: 550px) {
+    body {
+        width: auto;
+    }
+    header {
+        width: 100.5%;
+        height: 80px;
+        background-color: black;
+        position: fixed;
+        top: -5px;
+        left: -5px;
+        z-index: 100;
+    }
+    nav {
+        padding: 5px;
+        position: relative;
+        left: 150px;
+        top: 20px;
+    }
+    a {
+        font-size: 10px;
+        text-decoration: none;
+        color: white;
+        padding: 5px;
+    }
+    a:hover {
+        text-shadow: 0px 0px 10px white;
+    }
+    .img-1 {
+        width: 50px;
+        position: absolute;
+        top: 20px;
+        left: 10px;
+    }
+    .img-2 {
+        position: absolute;
+        left: 40px;
+        top: -13px;
+    }
+    .card {
+        transform: scale(0.9);
+    }
+    footer {
+        position: relative;
+        top: 500px;
+    }
+}
+@media only screen and (max-width: 600px) {
+    body {
+        width: auto;
+    }
+    header {
+        width: 100.5%;
+        height: 80px;
+        background-color: black;
+        position: fixed;
+        top: -5px;
+        left: -5px;
+        z-index: 100;
+    }
+    nav {
+        padding: 5px;
+        position: relative;
+        left: 150px;
+        top: 20px;
+    }
+    a {
+        font-size: 10px;
+        text-decoration: none;
+        color: white;
+        padding: 5px;
+    }
+    a:hover {
+        text-shadow: 0px 0px 10px white;
+    }
+    .img-1 {
+        width: 50px;
+        position: absolute;
+        top: 20px;
+        left: 10px;
+    }
+    .img-2 {
+        position: absolute;
+        left: 40px;
+        top: -13px;
+    }
+    .card {
+        transform: scale(0.9);
+    }
+    footer {
+        position: relative;
+        top: 500px;
+    }
+}
